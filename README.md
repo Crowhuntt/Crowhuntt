@@ -1,5 +1,7 @@
 ### Bienvenido a mi perfil, soy Ion Elguea 👋
 
+<br>
+
 ### 🎓 Estudios 
 
 <br>
