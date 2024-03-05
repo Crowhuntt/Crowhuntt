@@ -14,7 +14,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
 
 <br>
 
-### 📖 Algunos de mis proyectos
+### ✏️ Algunos de mis proyectos
 
 <br>
 
