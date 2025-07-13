@@ -6,7 +6,9 @@
 
 <br>
 
-Máster en Inteligencia Artificial y Big Data. 
+Máster Profesional en Desarrollo de aplicaciones en lenguaje Python
+
+Máster Profesional en Inteligencia Artificial y Big Data. 
 
 Técnico Superior en Desarrollo de Aplicaciones Web. 
 
@@ -18,11 +20,9 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
 
 <br>
 
-Página web de mascotas en adopción: [mascotasadopcion.com](https://mascotasadopcion.com/)
+Página web de mascotas en adopción: [mascotasadopcion.com](https://mascotasadopcion.ioncv.com/)
 
-Página web corporativa: [bereizi.com](https://bereizi.com/)
-
-Calculadora web para el videojuego Tetris de la consola NES: [nestetris](https://nestetris.bereizi.com/)
+Calculadora web para el videojuego Tetris de la consola NES: [nestetris](https://nestetris.ioncv.com/)
 
 <br>
 
