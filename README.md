@@ -20,7 +20,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
 
 <br>
 
-Página web de mascotas en adopción: [mascotasadopcion.com](https://mascotasadopcion.ioncv.com/){:target="_blank"}
+Página web de mascotas en adopción: [mascotasadopcion.com](https://mascotasadopcion.ioncv.com/)
 
 Calculadora web para el videojuego Tetris de la consola NES: [nestetris](https://nestetris.ioncv.com/)
 
